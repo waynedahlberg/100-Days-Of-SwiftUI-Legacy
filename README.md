@@ -16,22 +16,33 @@ Learning and playing with SwiftUI, one day at a time.
 ## Day Three
 **Slide-over Card** - A sliding modal with three vertical states, over a map view.
 
-![Day 01 - Simple Card](/img/day03.png)
+![Day 03 - Slideover Card](/img/day03.png)
 
 
 
 ## Day Four
 **Login Page** - A simple login page with success/fail states.
 
-![Day 01 - Simple Card](/img/day04.png)
+![Day 04 - Login Page](/img/day04.png)
 
 
 ## Day Five
 **Alert** - A dead simple alert triggered by a button
 
-![Day 01 - Simple Card](/img/day05.png)
+![Day 05 - Alert](/img/day05.png)
 
 ## Day Six
 **Gestures** - Drag and long press gestures
 
-![Day 01 - Simple Card](/img/day06.png)
+![Day 06 - Gestures](/img/day06.png)
+
+## Day Seven
+**Data Flow** - errors. errors everywhere. moving on...
+
+![Day -7 - Data Flow](/img/day07.png)
+
+## Day Eight
+**Pickers** - Simple Picker views from an array list
+
+![Day 8 - Pickers](/img/day08.png)
+

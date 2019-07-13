@@ -30,3 +30,8 @@ Learning and playing with SwiftUI, one day at a time.
 **Alert** - A dead simple alert triggered by a button
 
 ![Day 01 - Simple Card](/img/day05.png)
+
+## Day Six
+**Gestures** - Drag and long press gestures
+
+![Day 01 - Simple Card](/img/day06.png)

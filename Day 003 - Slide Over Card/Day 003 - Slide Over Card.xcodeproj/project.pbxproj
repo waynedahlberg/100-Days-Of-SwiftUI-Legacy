@@ -7,27 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B0890B4522D7E9CD00FD7A46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0890B4422D7E9CD00FD7A46 /* AppDelegate.swift */; };
-		B0890B4722D7E9CD00FD7A46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0890B4622D7E9CD00FD7A46 /* SceneDelegate.swift */; };
-		B0890B4922D7E9CD00FD7A46 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0890B4822D7E9CD00FD7A46 /* ContentView.swift */; };
-		B0890B4B22D7E9CE00FD7A46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0890B4A22D7E9CE00FD7A46 /* Assets.xcassets */; };
-		B0890B4E22D7E9CE00FD7A46 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0890B4D22D7E9CE00FD7A46 /* Preview Assets.xcassets */; };
-		B0890B5122D7E9CE00FD7A46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0890B4F22D7E9CE00FD7A46 /* LaunchScreen.storyboard */; };
+		B0FFDBD122D94E3700471969 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBD022D94E3700471969 /* AppDelegate.swift */; };
+		B0FFDBD322D94E3700471969 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBD222D94E3700471969 /* SceneDelegate.swift */; };
+		B0FFDBD522D94E3700471969 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBD422D94E3700471969 /* ContentView.swift */; };
+		B0FFDBD722D94E3800471969 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0FFDBD622D94E3800471969 /* Assets.xcassets */; };
+		B0FFDBDA22D94E3800471969 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0FFDBD922D94E3800471969 /* Preview Assets.xcassets */; };
+		B0FFDBDD22D94E3800471969 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0FFDBDB22D94E3800471969 /* LaunchScreen.storyboard */; };
+		B0FFDBE522DA352E00471969 /* SlideOverCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBE422DA352E00471969 /* SlideOverCard.swift */; };
+		B0FFDBE722DA362300471969 /* Handle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBE622DA362300471969 /* Handle.swift */; };
+		B0FFDBE922DA368400471969 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFDBE822DA368400471969 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B0890B4122D7E9CD00FD7A46 /* Day 003 - Text Field.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Day 003 - Text Field.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B0890B4422D7E9CD00FD7A46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B0890B4622D7E9CD00FD7A46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B0890B4822D7E9CD00FD7A46 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		B0890B4A22D7E9CE00FD7A46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B0890B4D22D7E9CE00FD7A46 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B0890B5022D7E9CE00FD7A46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		B0890B5222D7E9CE00FD7A46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0FFDBCD22D94E3700471969 /* Day 003 - Slide Over Card.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Day 003 - Slide Over Card.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0FFDBD022D94E3700471969 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B0FFDBD222D94E3700471969 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B0FFDBD422D94E3700471969 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B0FFDBD622D94E3800471969 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B0FFDBD922D94E3800471969 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0FFDBDC22D94E3800471969 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B0FFDBDE22D94E3800471969 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0FFDBE422DA352E00471969 /* SlideOverCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideOverCard.swift; sourceTree = "<group>"; };
+		B0FFDBE622DA362300471969 /* Handle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Handle.swift; sourceTree = "<group>"; };
+		B0FFDBE822DA368400471969 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B0890B3E22D7E9CD00FD7A46 /* Frameworks */ = {
+		B0FFDBCA22D94E3700471969 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,40 +43,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B0890B3822D7E9CD00FD7A46 = {
+		B0FFDBC422D94E3700471969 = {
 			isa = PBXGroup;
 			children = (
-				B0890B4322D7E9CD00FD7A46 /* Day 003 - Text Field */,
-				B0890B4222D7E9CD00FD7A46 /* Products */,
+				B0FFDBCF22D94E3700471969 /* Day 003 - Slide Over Card */,
+				B0FFDBCE22D94E3700471969 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B0890B4222D7E9CD00FD7A46 /* Products */ = {
+		B0FFDBCE22D94E3700471969 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B0890B4122D7E9CD00FD7A46 /* Day 003 - Text Field.app */,
+				B0FFDBCD22D94E3700471969 /* Day 003 - Slide Over Card.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B0890B4322D7E9CD00FD7A46 /* Day 003 - Text Field */ = {
+		B0FFDBCF22D94E3700471969 /* Day 003 - Slide Over Card */ = {
 			isa = PBXGroup;
 			children = (
-				B0890B4422D7E9CD00FD7A46 /* AppDelegate.swift */,
-				B0890B4622D7E9CD00FD7A46 /* SceneDelegate.swift */,
-				B0890B4822D7E9CD00FD7A46 /* ContentView.swift */,
-				B0890B4A22D7E9CE00FD7A46 /* Assets.xcassets */,
-				B0890B4F22D7E9CE00FD7A46 /* LaunchScreen.storyboard */,
-				B0890B5222D7E9CE00FD7A46 /* Info.plist */,
-				B0890B4C22D7E9CE00FD7A46 /* Preview Content */,
+				B0FFDBD022D94E3700471969 /* AppDelegate.swift */,
+				B0FFDBD222D94E3700471969 /* SceneDelegate.swift */,
+				B0FFDBD422D94E3700471969 /* ContentView.swift */,
+				B0FFDBE622DA362300471969 /* Handle.swift */,
+				B0FFDBE822DA368400471969 /* MapView.swift */,
+				B0FFDBE422DA352E00471969 /* SlideOverCard.swift */,
+				B0FFDBD622D94E3800471969 /* Assets.xcassets */,
+				B0FFDBDB22D94E3800471969 /* LaunchScreen.storyboard */,
+				B0FFDBDE22D94E3800471969 /* Info.plist */,
+				B0FFDBD822D94E3800471969 /* Preview Content */,
 			);
-			path = "Day 003 - Text Field";
+			path = "Day 003 - Slide Over Card";
 			sourceTree = "<group>";
 		};
-		B0890B4C22D7E9CE00FD7A46 /* Preview Content */ = {
+		B0FFDBD822D94E3800471969 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				B0890B4D22D7E9CE00FD7A46 /* Preview Assets.xcassets */,
+				B0FFDBD922D94E3800471969 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -78,39 +87,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B0890B4022D7E9CD00FD7A46 /* Day 003 - Text Field */ = {
+		B0FFDBCC22D94E3700471969 /* Day 003 - Slide Over Card */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B0890B5522D7E9CE00FD7A46 /* Build configuration list for PBXNativeTarget "Day 003 - Text Field" */;
+			buildConfigurationList = B0FFDBE122D94E3800471969 /* Build configuration list for PBXNativeTarget "Day 003 - Slide Over Card" */;
 			buildPhases = (
-				B0890B3D22D7E9CD00FD7A46 /* Sources */,
-				B0890B3E22D7E9CD00FD7A46 /* Frameworks */,
-				B0890B3F22D7E9CD00FD7A46 /* Resources */,
+				B0FFDBC922D94E3700471969 /* Sources */,
+				B0FFDBCA22D94E3700471969 /* Frameworks */,
+				B0FFDBCB22D94E3700471969 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Day 003 - Text Field";
-			productName = "Day 003 - Text Field";
-			productReference = B0890B4122D7E9CD00FD7A46 /* Day 003 - Text Field.app */;
+			name = "Day 003 - Slide Over Card";
+			productName = "Day 003 - Slide Over Card";
+			productReference = B0FFDBCD22D94E3700471969 /* Day 003 - Slide Over Card.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B0890B3922D7E9CD00FD7A46 /* Project object */ = {
+		B0FFDBC522D94E3700471969 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Floppy Hat, LLC";
 				TargetAttributes = {
-					B0890B4022D7E9CD00FD7A46 = {
+					B0FFDBCC22D94E3700471969 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = B0890B3C22D7E9CD00FD7A46 /* Build configuration list for PBXProject "Day 003 - Text Field" */;
+			buildConfigurationList = B0FFDBC822D94E3700471969 /* Build configuration list for PBXProject "Day 003 - Slide Over Card" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,47 +127,50 @@
 				en,
 				Base,
 			);
-			mainGroup = B0890B3822D7E9CD00FD7A46;
-			productRefGroup = B0890B4222D7E9CD00FD7A46 /* Products */;
+			mainGroup = B0FFDBC422D94E3700471969;
+			productRefGroup = B0FFDBCE22D94E3700471969 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B0890B4022D7E9CD00FD7A46 /* Day 003 - Text Field */,
+				B0FFDBCC22D94E3700471969 /* Day 003 - Slide Over Card */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B0890B3F22D7E9CD00FD7A46 /* Resources */ = {
+		B0FFDBCB22D94E3700471969 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0890B5122D7E9CE00FD7A46 /* LaunchScreen.storyboard in Resources */,
-				B0890B4E22D7E9CE00FD7A46 /* Preview Assets.xcassets in Resources */,
-				B0890B4B22D7E9CE00FD7A46 /* Assets.xcassets in Resources */,
+				B0FFDBDD22D94E3800471969 /* LaunchScreen.storyboard in Resources */,
+				B0FFDBDA22D94E3800471969 /* Preview Assets.xcassets in Resources */,
+				B0FFDBD722D94E3800471969 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B0890B3D22D7E9CD00FD7A46 /* Sources */ = {
+		B0FFDBC922D94E3700471969 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0890B4522D7E9CD00FD7A46 /* AppDelegate.swift in Sources */,
-				B0890B4722D7E9CD00FD7A46 /* SceneDelegate.swift in Sources */,
-				B0890B4922D7E9CD00FD7A46 /* ContentView.swift in Sources */,
+				B0FFDBD122D94E3700471969 /* AppDelegate.swift in Sources */,
+				B0FFDBE922DA368400471969 /* MapView.swift in Sources */,
+				B0FFDBE522DA352E00471969 /* SlideOverCard.swift in Sources */,
+				B0FFDBE722DA362300471969 /* Handle.swift in Sources */,
+				B0FFDBD322D94E3700471969 /* SceneDelegate.swift in Sources */,
+				B0FFDBD522D94E3700471969 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		B0890B4F22D7E9CE00FD7A46 /* LaunchScreen.storyboard */ = {
+		B0FFDBDB22D94E3800471969 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B0890B5022D7E9CE00FD7A46 /* Base */,
+				B0FFDBDC22D94E3800471969 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		B0890B5322D7E9CE00FD7A46 /* Debug */ = {
+		B0FFDBDF22D94E3800471969 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +238,7 @@
 			};
 			name = Debug;
 		};
-		B0890B5422D7E9CE00FD7A46 /* Release */ = {
+		B0FFDBE022D94E3800471969 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,40 +292,40 @@
 			};
 			name = Release;
 		};
-		B0890B5622D7E9CE00FD7A46 /* Debug */ = {
+		B0FFDBE222D94E3800471969 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Day 003 - Text Field\"/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "\"Day 003 - Slide Over Card\"/Preview\\ Content";
 				DEVELOPMENT_TEAM = 6Y33CRE77K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Day 003 - Text Field/Info.plist";
+				INFOPLIST_FILE = "Day 003 - Slide Over Card/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.waynedahlberg.Day-003---Text-Field";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.floppyhat.Day-003---Slide-Over-Card";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		B0890B5722D7E9CE00FD7A46 /* Release */ = {
+		B0FFDBE322D94E3800471969 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Day 003 - Text Field\"/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "\"Day 003 - Slide Over Card\"/Preview\\ Content";
 				DEVELOPMENT_TEAM = 6Y33CRE77K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Day 003 - Text Field/Info.plist";
+				INFOPLIST_FILE = "Day 003 - Slide Over Card/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.waynedahlberg.Day-003---Text-Field";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.floppyhat.Day-003---Slide-Over-Card";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +335,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B0890B3C22D7E9CD00FD7A46 /* Build configuration list for PBXProject "Day 003 - Text Field" */ = {
+		B0FFDBC822D94E3700471969 /* Build configuration list for PBXProject "Day 003 - Slide Over Card" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B0890B5322D7E9CE00FD7A46 /* Debug */,
-				B0890B5422D7E9CE00FD7A46 /* Release */,
+				B0FFDBDF22D94E3800471969 /* Debug */,
+				B0FFDBE022D94E3800471969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B0890B5522D7E9CE00FD7A46 /* Build configuration list for PBXNativeTarget "Day 003 - Text Field" */ = {
+		B0FFDBE122D94E3800471969 /* Build configuration list for PBXNativeTarget "Day 003 - Slide Over Card" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B0890B5622D7E9CE00FD7A46 /* Debug */,
-				B0890B5722D7E9CE00FD7A46 /* Release */,
+				B0FFDBE222D94E3800471969 /* Debug */,
+				B0FFDBE322D94E3800471969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B0890B3922D7E9CD00FD7A46 /* Project object */;
+	rootObject = B0FFDBC522D94E3700471969 /* Project object */;
 }
